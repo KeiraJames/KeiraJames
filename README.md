@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Ah! I see now — you want literally **everything from your original text included**, including the parts after your email, emojis, and all sections like “💻 I fell in love…”, “📍 What Am I Doing?”, previous experience, and tech stack. Here’s the **full README in Markdown** with every piece of your text:
+
 
 ````markdown
 # Hi there, My Name is 👋

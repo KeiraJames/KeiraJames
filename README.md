@@ -1,6 +1,6 @@
 # Hi there, My Name is 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=000000&width=500&lines=Hi+there,+My+Name+is+Keira;I+love+coding;I+am+a+CS+student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FFFFF&width=500&lines=Hi+there,+My+Name+is+Keira;I+love+coding;I+am+a+CS+student)
 
 ## 📮 About Me
 

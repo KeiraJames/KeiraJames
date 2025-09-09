@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FFFFFF&width=500&lines=Howdy+My+Name+is+Keira+:D;I+am+a+CS+student+and+I+love+to+learn!+I+study+computer+science+because+there+is+and+always+will+be+more+to+learn!+Follow+along+and+code+with+me+:3)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FFFFFF&width=800&lines=Howdy!+My+name+is+Keira+:D;I+am+a+CS+student+and+I+love+to+learn!+I+study+computer+science+because+there+is+and+always+will+be+more+to+learn!+Follow+along+and+code+with+me+:3)
 
 ## 📮 About Me
 

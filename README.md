@@ -48,7 +48,6 @@ me.say_hi()
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="60">
   <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="60">
   <img src="https://www.tensorflow.org/static_files/Colab-128px.png" alt="Colab" width="60">
-  <img src="https://www.wasm.builders/img/wasm-logo.svg" alt="WASM" width="60">
   <img src="https://raw.githubusercontent.com/nodejs/node-v0.x-archive/master/logo/nodejs-logo.png" alt="Node.js" width="60">
   <img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle" width="60">
 

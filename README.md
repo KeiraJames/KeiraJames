@@ -31,4 +31,31 @@ me.say_hi()
 
 ```
 
-## Skills and Technologies
+
+## Skills & Technologies
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="60">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="60">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="60">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="60">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="60">
+  <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="SCSS" width="60">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="60">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="60">
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="60">
+  <img src="https://www.docker.com/wp-content/uploads/2023/07/Moby-logo.png" alt="Docker" width="60">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="60">
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="60">
+  <img src="https://www.tensorflow.org/static_files/Colab-128px.png" alt="Colab" width="60">
+  <img src="https://www.wasm.builders/img/wasm-logo.svg" alt="WASM" width="60">
+  <img src="https://raw.githubusercontent.com/nodejs/node-v0.x-archive/master/logo/nodejs-logo.png" alt="Node.js" width="60">
+  <img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle" width="60">
+
+</p>
+
+I'm proficient in the following technologies:
+
+- **Languages:** Python, JavaScript, TypeScript, HTML, CSS, SCSS, SQL
+- **Frameworks/Libraries:** React, Streamlit, WASM (WebAssembly), Node.js
+- **Tools:** Docker, Git, Jupyter Notebook, Google Colab, Kaggle

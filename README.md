@@ -16,7 +16,6 @@ class Keira:
         self.undergraduate_minor = 'Data Science'
         self.currently_looking_for_internships = True
         self.hobbies = ['Retro Games', 'Adventure Time', 'Steven Universe']
-        self.languages = ['en_US', 'el_GR']
         self.quote= ["Will happen again and again, cause you and I will always be back then:)"]
       
 

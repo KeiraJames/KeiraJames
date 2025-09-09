@@ -27,3 +27,8 @@ class Keira:
 
 me = Keira()
 me.say_hi()
+
+
+```
+
+#Skills and Technologies

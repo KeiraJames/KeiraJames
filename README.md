@@ -56,5 +56,5 @@ me.say_hi()
 I'm proficient in the following technologies:
 
 - **Languages:** Python, JavaScript, TypeScript, HTML, CSS, SCSS, SQL
-- **Frameworks/Libraries:** React, Streamlit, WASM (WebAssembly), Node.js
+- **Frameworks/Libraries:** React, Streamlit, Node.js
 - **Tools:** Docker, Git, Jupyter Notebook, Google Colab, Kaggle

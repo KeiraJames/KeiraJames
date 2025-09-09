@@ -48,9 +48,12 @@ me.say_hi()
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="60">
   <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="60">
   <img src="https://www.tensorflow.org/static_files/Colab-128px.png" alt="Colab" width="60">
-  <img src="https://raw.githubusercontent.com/nodejs/node-v0.x-archive/master/logo/nodejs-logo.png" alt="Node.js" width="60">
+  <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Node.js" width="60">
   <img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle" width="60">
-
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" width="60">
+  <img src="https://avatars.githubusercontent.com/u/104624245?s=200&v=4" alt="LangChain" width="60">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" width="60">
+  <img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VS Code" width="60">
 </p>
 
 I'm proficient in the following technologies:

@@ -20,8 +20,8 @@ class Keira:
       
 
     def say_hi(self):
-        print('Let's start a project')
-        print('Contact me via LinkedIn!')
+        print("Let's start a project")
+        print("Contact me via LinkedIn!")
 
 
 me = Keira()
